@@ -13,7 +13,7 @@ I'm Dineshwar, a passionate web development student aspiring to make a mark in t
 - 🌐 [Portfolio](https://portfolio-dineshwar.netlify.app/)
 - 🌱 Currently learning DSA and advancing in web development
 - 💼 Actively seeking internship opportunities
-- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/dineshwarsenthilnathan)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dineshwar19/)
 
 ## Skills
 
