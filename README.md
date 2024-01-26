@@ -33,6 +33,10 @@ I'm Dineshwar, a passionate web development student aspiring to make a mark in t
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Dineshwar19?theme=light&font=Anek%20Kannada&ext=heatmap)
 
+## GFG Stats
+
+[![Dineshwar's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ncsdineshwar19)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
 ## GitHub Activity
 
 [![Dineshwar GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshwar19&bg_color=000000&color=ffffff&line=ffec70&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
