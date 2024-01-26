@@ -6,7 +6,8 @@
 
 I'm Dineshwar, a passionate web development student aspiring to make a mark in the tech industry. Currently, I am honing my skills in Data Structures and Algorithms while delving deeper into web development.
 
-![Dineshwar Senthilnathan](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtpcG45eGRwaHc0dW53c3ZweXVjNmtsN242MTJ3OGo0cW1wYXNhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtpcG45eGRwaHc0dW53c3ZweXVjNmtsN242MTJ3OGo0cW1wYXNhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 ## About Me
 
