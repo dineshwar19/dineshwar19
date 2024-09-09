@@ -12,8 +12,7 @@ I'm Dineshwar, a passionate web development student aspiring to make a mark in t
 ## About Me
 
 - 🌐 [Portfolio](https://portfolio-dineshwar.netlify.app/)
-- 🌱 Currently learning DSA and advancing in web development
-- 💼 Actively seeking internship opportunities
+- 🌱 Currently working as Member Technical Staff @ZOHO
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dineshwar19/)
 
 ## Skills
