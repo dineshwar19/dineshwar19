@@ -4,7 +4,11 @@
 
 ## 👋 Welcome to My GitHub Profile
 
-I'm Dineshwar, a passionate web development student aspiring to make a mark in the tech industry. Currently, I am honing my skills in Data Structures and Algorithms while delving deeper into web development.
+I am a passionate software engineer currently working as a Member Technical Staff at Zoho. With a solid background in Java,  SQL, ClickHouse , I specialize in backend development, data engineering, and building scalable, high-performance systems.
+
+I excel at solving complex technical challenges and have a strong focus on optimizing systems for efficiency and reliability. My experience includes designing and implementing RESTful APIs, optimizing database queries, and leveraging data processing tools to manage large-scale data with precision.
+
+I am always eager to expand my knowledge and expertise in emerging technologies and best practices. I thrive in collaborative environments where I can contribute to innovative projects and work alongside talented professionals to deliver impactful software solutions.
 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtpcG45eGRwaHc0dW53c3ZweXVjNmtsN242MTJ3OGo0cW1wYXNhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
